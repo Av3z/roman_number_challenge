@@ -19,10 +19,10 @@ obs: não foi usado nenhum pacote ou lib no projeto.
 
 ```bash
 # clonando o projeto para o seu pc:
-$ git git@github.com:Av3z/buscacep.git
+$ git clone git@github.com:Av3z/roman_number_challenge.git
 
 # entrando na pasta do projeto:
-$ cd buscacep
+$ cd roman_number_challenge
 
 # para inciar o projeto:
 $ flutter run
